@@ -1,2 +1,2 @@
 # JavaGUI
-test repo
+test repository
